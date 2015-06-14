@@ -15,4 +15,5 @@ camera to reproduce the moviments in the robotic hand.
 The next version will also have an integration with muscles. By capturing 
 biosignals from the arm, will allow users to control the robotic hand using 
 both android application and their own mucscles.
-------------------------------------------------------------------------------
+
+
